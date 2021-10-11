@@ -1,5 +1,5 @@
 # Tuyo
-Maqueta desarrollada con html, css (bootstrap)
+[Maqueta](https://tuyo-latam.netlify.app/) desarrollada con html y css (bootstrap)
 
 La maquetación se refiere a transformar un diseño gráfico en una interfaz funcional en términos de programación que entienda un navegador o dispositivo específico
 
