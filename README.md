@@ -1,5 +1,5 @@
 # [TUYO](https://tuyo-latam.netlify.app/)
-Maqueta landing page, desarrollada con html y css (bootstrap) para un proyecto independiente de Mexico.
+Maqueta responsive - landing page, desarrollada con html y css (bootstrap) para un proyecto independiente de Mexico.
 Deploy: Netlify
 
 
