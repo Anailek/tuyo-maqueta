@@ -97,13 +97,13 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .navbar-logo {
-  align-content: flex-start;
-  padding-left: 5px;
   /* display: inline-block; */
-  vertical-align: left;
   width: 85px;
   height: 85px;
   cursor: pointer;
+  flex-direction: row;
+  padding-left: 35px;
+  display: flex;
 }
 hr {
   margin: 1rem 0;
@@ -678,19 +678,18 @@ progress {
 }
 .container-nav {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .container-button {
   display: flex;
-  justify-content: space-between;
-  width: 210px;
+  justify-content: space-around;
+  width: 250px;
 }
 .button-primary {
   text-align: center;
+  margin: 10px;
   height: 40px;
   width: 800px;
-  padding: 4px;
-  border-radius: 25%;
   font-family: "Poppins", sans-serif;
   background-color: #ff761a;
   color: #fff3cd;
@@ -4194,6 +4193,7 @@ fieldset:disabled .btn {
   justify-content: space-between;
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
+  padding-right: 3%;
 }
 
 .navbar > .container,
